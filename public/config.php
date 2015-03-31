@@ -1,9 +1,9 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://homolog.lemonheadcamisetas.com.br/');
+define('HTTP_SERVER', 'http://lemonheadcamisetas.lojavirtual.digital/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://homolog.lemonheadcamisetas.com.br/');
+define('HTTPS_SERVER', 'http://lemonheadcamisetas.lojavirtual.digital/');
 
 // DIR
 define('DIR_APPLICATION', '/Users/fernandomendes/github/lemonhead/public/catalog/');

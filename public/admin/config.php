@@ -1,11 +1,11 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://homolog.lemonheadcamisetas.com.br/admin/');
-define('HTTP_CATALOG', 'http://homolog.lemonheadcamisetas.com.br/');
+define('HTTP_SERVER', 'http://lemonheadcamisetas.lojavirtual.digital/admin/');
+define('HTTP_CATALOG', 'http://lemonheadcamisetas.lojavirtual.digital/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://homolog.lemonheadcamisetas.com.br/admin/');
-define('HTTPS_CATALOG', 'http://homolog.lemonheadcamisetas.com.br/');
+define('HTTPS_SERVER', 'http://lemonheadcamisetas.lojavirtual.digital/admin/');
+define('HTTPS_CATALOG', 'http://lemonheadcamisetas.lojavirtual.digital/');
 
 // DIR
 define('DIR_APPLICATION', '/Users/fernandomendes/github/lemonhead/public/admin/');

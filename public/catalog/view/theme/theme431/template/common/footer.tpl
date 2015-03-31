@@ -6,6 +6,10 @@
 </section>
 <footer>
 	<div class="container">
+	<div class="fb-like-box" data-href="https://www.facebook.com/lojavirtual.digital" data-width="1150" data-height="250" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+	</div>
+
+	<div class="container">
 		<div class="row">
 			<?php if ($informations) { ?>
 			<div class="col-sm-2">
@@ -44,16 +48,7 @@
 				</ul>
 			</div>
 			<div class="col-sm-2">
-				<h3><?php echo $text_follow; ?></h3>
-				<ul>
-					<li><a href="http://facebook.com"><?php echo $text_fb; ?></a></li>
-					<li><a href="http://twitter.com"><?php echo $text_twi; ?></a></li>
-					<li><a href="#"><?php echo $text_rss; ?></a></li>
-					<li><a href="http://youtube.com"><?php echo $text_yt; ?></a></li>
-				</ul>
-			</div>
-			<div class="col-sm-2">
-				<h3><?php echo $text_support; ?></h3>
+				<h3>Atendimento</h3>
 				<div class="foot-phone">
 					<div class="fleft">
 						<i class="fa fa-phone"></i>
