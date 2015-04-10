@@ -3164,7 +3164,7 @@ footer .row li a:hover {
 	}
 footer .row li a {
 	font-size:12px;
-	color:#a9acae;
+	color:#f6b03a;
 	line-height:18px;
 	word-wrap:break-word 
 }
@@ -3191,17 +3191,17 @@ span.toggle {
 #copyright a {
 	font-size:11px;
 	text-decoration:none;
-	color:#333333;
+	color:#0D7F04;
 }
 #copyright a:hover {
-	color:#8dbf41;
+	color:#0D7F04;
 }
 #copyright {
 	background-color:#f6b03a;
 	margin-top:75px;
 	padding:20px 0;
 	font-size:11px;
-	color:#333333;
+	color:#0D7F04;
 }
 .return-captcha input img {
 	vertical-align:top;
