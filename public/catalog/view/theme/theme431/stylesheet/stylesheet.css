@@ -3169,8 +3169,12 @@ footer .row li a {
 	word-wrap:break-word 
 }
 footer .foot-phone div {
-	color:#a9acae;
 	line-height:22px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	line-height: 49px;
+	font-size: 40px;
+	color: #31353d;
 }
 footer .foot-phone div.fleft {
 	margin-top:5px;

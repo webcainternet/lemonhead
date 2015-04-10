@@ -47,7 +47,7 @@
 				<li><a href="<?php echo $newsletter; ?>"><?php echo $text_newsletter; ?></a></li>
 				</ul>
 			</div>
-			<div class="col-sm-2">
+			<div class="col-sm-2" style="width: 27.666667%;">
 				<h3>Atendimento</h3>
 				<div class="foot-phone">
 					<div class="fleft">
