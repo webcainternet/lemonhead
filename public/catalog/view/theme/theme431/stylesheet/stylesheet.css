@@ -3173,7 +3173,7 @@ footer .foot-phone div {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	line-height: 49px;
-	font-size: 40px;
+	font-size: 36px;
 	color: #31353d;
 }
 footer .foot-phone div.fleft {
@@ -3195,17 +3195,17 @@ span.toggle {
 #copyright a {
 	font-size:11px;
 	text-decoration:none;
-	color:#0D7F04;
+	color:#333;
 }
 #copyright a:hover {
-	color:#0D7F04;
+	color:#333;
 }
 #copyright {
 	background-color:#f6b03a;
 	margin-top:75px;
 	padding:20px 0;
 	font-size:11px;
-	color:#0D7F04;
+	color:#333;
 }
 .return-captcha input img {
 	vertical-align:top;
