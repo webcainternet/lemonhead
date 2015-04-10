@@ -3191,17 +3191,17 @@ span.toggle {
 #copyright a {
 	font-size:11px;
 	text-decoration:none;
-	color:#758290;
+	color:#333333;
 }
 #copyright a:hover {
 	color:#8dbf41;
 }
 #copyright {
-	background-color:#3e454c;
+	background-color:#f6b03a;
 	margin-top:75px;
 	padding:20px 0;
 	font-size:11px;
-	color:#758290;
+	color:#333333;
 }
 .return-captcha input img {
 	vertical-align:top;
