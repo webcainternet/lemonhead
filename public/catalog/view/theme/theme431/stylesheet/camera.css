@@ -4,7 +4,7 @@
 *
 **************************/
 .fluid_container {
-	margin-bottom:31px;
+	margin-bottom:50px;
 	border-top:10px solid #8dbf41;
 }
 .camera_wrap a,
@@ -276,8 +276,8 @@
 	padding: 0;
 	text-align: right;
 	position:absolute;
-	bottom:40px;
-	right:26px
+	bottom: -30px;
+  	right: 410px;
 }
 .camera_wrap .camera_pag .camera_pag_ul li {
 	-webkit-border-radius: 8px;
@@ -373,11 +373,12 @@
 	cursor: pointer;
 	display: block;
 	float:left;
-	height: 7px;
+	height: 10px;
 	margin: 0px 0px 0px 5px;
 	position: relative;
 	text-indent: -9999px;
-	width: 39px;
+	width: 10px;
+  	border-radius: 5px;
 }
 .camera_thumbs_cont {
 	-webkit-border-bottom-right-radius: 4px;

@@ -7,7 +7,7 @@
 	});
 	};
 </script>
-<div class="box specials">
+<div class="box specials" style="border: solid 1px #e1e1e1; padding: 10px;">
   <div class="box-heading special-heading"><?php echo $heading_title; ?></div>
   <div class="box-content">
 	<div class="box-product">
@@ -50,7 +50,7 @@
 							<?php if (!$product['special']) { ?>
 							<?php echo $product['price']; ?>
 							<?php } else { ?>
-							<span class="price-new"><?php echo $product['special']; ?></span><span class="price-old"><?php echo $product['price']; ?></span>
+							<span class="price-old"><?php echo $product['price']; ?></span>&nbsp;<span class="price-new"><?php echo $product['special']; ?></span>
 							<?php } ?>
 						</div>
 						<?php } ?>
