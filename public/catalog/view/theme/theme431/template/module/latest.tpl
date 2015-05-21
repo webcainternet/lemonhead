@@ -7,7 +7,7 @@
 	});
 	};
 </script>
-<div class="box specials" style="border: solid 1px #e1e1e1; padding: 10px;">
+<div class="box specials" style="border: solid 1px #31353d; padding: 10px;">
   <div class="box-heading special-heading"><?php echo $heading_title; ?></div>
   <div class="box-content">
 	<div class="box-product">
