@@ -3718,3 +3718,9 @@ table.radio {
 .zoomContainer {
 z-index:8;
 }
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
