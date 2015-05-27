@@ -2274,6 +2274,7 @@ h1.style-1 {
 	text-transform:none;
 	font-weight:normal;
 	margin-left:10px;
+	display: none;
 }
 .product-info .price .discount{
 	text-transform:none;
@@ -3201,7 +3202,7 @@ span.toggle {
 	color:#333;
 }
 #copyright {
-	background-color:#f6b03a;
+	background-color:#8dbf41;
 	margin-top:75px;
 	padding:20px 0;
 	font-size:11px;
